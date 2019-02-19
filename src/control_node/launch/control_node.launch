@@ -1,0 +1,14 @@
+<launch>
+    <node name="control_node" pkg="control_node" type="control_node.py" output="screen" />
+    <group ns="mission_node">
+        <node name="normal_mission_node" pkg="mission_node" type="normal_mission_node.py" output="screen" />
+        <node name="crossbar_mission_node" pkg="mission_node" type="crossbar_mission_node.py" output="screen" />
+        <node name="parking_mission_node" pkg="mission_node" type="parking_mission_node.py" output="screen" />
+        <node name="traffic_mission_node" pkg="mission_node" type="traffic_mission_node.py" output="screen" />
+        <node name="tunnel_mission_node" pkg="mission_node" type="tunnel_mission_node.py" output="screen" />
+        <node name="intersection_mission_node" pkg="mission_node" type="intersection_mission_node.py" output="screen" />
+        <node name="construction_mission_node" pkg="mission_node" type="construction_mission_node.py" output="screen" />
+    </group>
+    <node name="sign_node" pkg="sign_node" type="sign_node.py" output="screen" />
+    <node name="driving_node" pkg="driving_node" type="driving_node.py" />
+</launch>
