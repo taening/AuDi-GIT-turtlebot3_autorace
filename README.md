@@ -29,7 +29,8 @@ If you're interested in our project, Please see the following video.
 
 ## 준비과정
 ### Modeling
-> <img src="/img/modeling/cameraMount.bmp" width="200" height="200"> 
+> <img src="/img/modeling/cameraMount.png" width="200" height="200"> 
+> <img src="/img/modeling/ultrasonicMount.bmp" width="200" height="200"> 
 > <img src="/img/modeling/field.bmp" width="200" height="200"> 
 > <img src="/img/modeling/blockingBar.bmp" width="200" height="200"> 
 > <img src="/img/modeling/trafficLight.bmp" width="200" height="200"> 
@@ -42,14 +43,14 @@ If you're interested in our project, Please see the following video.
 > <img src="/img/reference/realTrafficSign.bmp" width="200" height="200"> 
  
 ### Image Processing
-> <img src="/img/reference/nodeDesign.bmp" width="400" height="400"> <br/>
-> <img src="/img/reference/lane01.jpg" width="400" height="200"> <br/>
+> <img src="/img/reference/nodeDesign.bmp" width="800" height="400"> <br/>
+> <img src="/img/reference/lane01.jpg" width="400" height="200">
 > <img src="/img/reference/lane02.jpg" width="400" height="200"> <br/>
-> <img src="/img/reference/lane03.jpg" width="400" height="200"> <br/>
+> <img src="/img/reference/lane03.jpg" width="400" height="200">
 > <img src="/img/reference/lane04.png" width="400" height="200"> 
-
-### SLAM(Simultaneous Localization And Mapping)
-> https://user-images.githubusercontent.com/22444743/148670537-b4beebef-8242-4c46-b16a-d907c70e6111.mp4
 
 ### Image Processing vs CNN(Convolution Neural Network)
 > https://user-images.githubusercontent.com/22444743/148670749-08df750c-5671-4e2d-8470-82dab4deb788.mp4
+
+### SLAM(Simultaneous Localization And Mapping)
+> https://user-images.githubusercontent.com/22444743/148670537-b4beebef-8242-4c46-b16a-d907c70e6111.mp4
