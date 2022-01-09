@@ -3,7 +3,9 @@ Program development for driving autonomous mobile robot. <br/>
 I participated in the 2018 R-BIZ Challenge Turtlebot3 Autorace with Kim Seong-ho, Yoo Kyung-hyun, and Shim Gyu-ho. <br/>
 We used ROS(Robot Operating System) Framework and OpenCV in Python3 as Software. <br/>
 Also, We used ROTOTIS's Turtlebot3, NVIDIA's Jetson TX2 Board and Arduino's OpenCR Board as Hardware. <br/>
-If you're interested in our project, Please see the following video.
+We reference the book called "ROS Robot Programming". <br/>
+If you're interested in our project, Please see the following video. <br/>
+<img src="/img/reference/ROS_Book.jpg" width="200" height="300">
 
 ## 2018 R-BIZ Challenge Turtlebot3 Autorace
 #### ⇩ Click Below Video ⇩
